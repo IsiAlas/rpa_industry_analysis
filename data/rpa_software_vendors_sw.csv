@@ -1,0 +1,67 @@
+#,Company,RPA Product Name,Strenghts,Weaknesses
+1,Automation Anywhere,Automation 360,"- Develops innovative features
+- Cloud-based
+- Embeds automation in business applications, reducing barrier to entry to RPA adoption","- Customers having issues with migrations
+- Limited collaboration capabilities
+- Withdrawal of sales and support presence in some regions"
+2,SS&C BluePrism,Intelligent Automation Platform,"- Provides a wide variety of connectors to enterprise applications
+- Large customer base and community","- Post M&A issues, such as customer support issues 
+- Hisorically lagged in developing product features
+- Longer time to implement"
+3,UiPath,UiPath Platform,"- Strong brand awareness
+- Largest RPA vendor by revenue
+- Large partner ecosystem and global customer demand","- Struggles to balance growth, profitability and customer service (slow response times)
+- diffcult to understand new pricing options"
+4,Microsoft,Power Automate,"- Microsoft customers can often get Power Automate at a discount
+- Large global customer base","- Customers struggle to navigate between different interfaces
+- Complex level of configuration and integration with other components"
+5,Nice,"- NEVA (RPA assistant)
+- Automation Finder (process discovery)
+- Automation Studio (OCR)","- Offers a relatively low entry price
+- Its automation community, open SDK and center of excellence enhance developer collaboration
+- Fifth in terms of total RPA revenue","- Usually not the first choice for many potential RPA customers 
+- Limited real-time collaboration features for developers
+- Requires significant technical skills."
+6,Workfusion,Intelligent Automation Cloud,"- Demonstrates superior AI/ML capabilities
+- Specializes in automation for the banking and financial services industries-
+- Sixth in terms of total revenue","- Focus on finance industry may deter customers in other industries
+- Requires significant technical skills.
+- Visible gaps in product features"
+7,Cyclone Robotics,Cyclone RPA,"- Invests heavely on AI
+- Strong foundation of IoT and edge computing capabilities
+- Focused on offering end-to-end automation","- Current investment may not be enough to keep rapid growth rate
+- Visibility outside Asia/Pacific remains low
+- Technical issues such as stability concernes, slow response time and lack of connectivity"
+8,Samsung SDS,Brity RPA,"- Platform for citizen developers
+- Tenth largest vendor in terms of total revenue","- Only supported on the Microsoft Windows OS
+- Small team of employees supporting its RPA operations (difficulties for scaling)
+- Limited geographic presence may deter organizationsoutside APAC"
+9,Nintex,Nintex Kryon RPA,"- Web-based interface with strong security controls
+- It has 3 process automation acquisition since 2021
+- Strong name recognition","- Lacks some features found in many competing products (e.g: collaboration)
+- Lag in integrating disparate capabilities into a single, cohesive product when integrating with acquired platform"
+10,IBM,IBM RPA Studio,"- Offers flexible licensing options
+- Offers a wide array of training and customer support
+- Offers native AI with citizen-developer-friendly classification and decision models.","- Requires significant technical skills.
+- Customers lack awareness of IBM’s RPA capabilities"
+11,Laiye,Laiye RPA,"- Focused on end-to-endautomation.
+- Large ecosystem of partners and community developers
+- Training and presence in multiple universities","- It's not certain it can suport large enterprise requirements
+- Its competitive advantage is watered down by competitors partnerig with companies that offer them"
+12,Pegasystems,Pega RPA,"- Feature-rich platform
+- Innovative capabilitiey 
+- Large ecosystem of customers and partners","- Complex implementations
+- Disparate customer experience
+- High price"
+13,SAP,SAP Process Automation,"- SAP Ecosystem: large-scale ERP ecosystem and global customer base
+- Broad and innovative capabilities
+- Flexible pricing","- Customers perceive SAP’s RPA product as SAP-centric.
+- Does not provide on-premises orchestration"
+14,Appian,Appian RPA,"- High-value applications that require sophisticated rules and analytics.
+- Large ecosystem of customers and implementation partners","- Complex to implement
+- Appian’s strong narrative around its BPA and low-code platform overshadows its RPA offering
+- Does not support an on-premises orchestrator"
+15,Salesforce (Mulesoft),MuleSoft RPA,"- Can integrate with other Salesforce platforms
+- Innovative capabilities (e.g: self-building bot)
+- Flexible pricing and relatively low price point","- Post-M&A uncertainty
+- Gaps in its feature set"
