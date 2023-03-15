@@ -182,7 +182,7 @@ with tab3:
 
 with tab4:
     st.header("Feature Comparison")
-    image_2 = Image.open("data/feature_comparison.png")
+    image_2 = Image.open("data/feature_comparison_2.png")
     st.image(image_2)
 
 with tab5:
