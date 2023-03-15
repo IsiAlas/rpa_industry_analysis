@@ -167,7 +167,7 @@ tab1, tab2, tab3, tab4, tab5, tab6, tab7 = st.tabs(["Product Name", "Strengths",
 
 with tab1:
    st.header("RPA Product Name")
-   df_2 = pd.read_csv("data/rpa_product_name.cvs")
+   df_2 = pd.read_csv("data/rpa_product_name.csv")
    st.write(df_2)
 
 with tab2:
