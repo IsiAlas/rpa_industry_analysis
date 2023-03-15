@@ -167,7 +167,7 @@ tab1, tab2, tab3, tab4, tab5, tab6, tab7 = st.tabs(["Product Name", "Strengths",
 
 with tab1:
    st.header("RPA Product Name")
-   df_2 = pd.read_csv("data/rpa_product_name.csv")
+   df_2 = pd.read_csv("data/product_name_2.png")
    st.write(df_2)
 
 with tab2:
@@ -206,11 +206,6 @@ with tab7:
 
 
 
-#image_1 = Image.open('sw_1.png')
-#image_2 = Image.open('sw_2.png')
-
-#st.image(image_1)
-#st.image(image_2)
 
 
 
@@ -218,60 +213,3 @@ with tab7:
 
 
 
-
-
-
-
-
-
-
-# """ with st.container():
-#     col1, col2 = st.columns(2)#, gap='small')
-
-#     with col1:
-#         appian_logo="https://logos-download.com/wp-content/uploads/2022/01/Appian_Logo.png"
-#         st.image(appian_logo, caption='Appian', width=70)
-
-#     with col2:
-#         workfusion_logo= "https://upload.wikimedia.org/wikipedia/commons/3/34/Workfusion_2020_Logo.png"
-#         st.image(workfusion_logo, caption='WorkFusion', width=170)
-
-
-
-#st.write("#")
-
-#with st.container():
- #   col1, col2, col3 = st.columns(3, gap='small')
-
-  #  with col1:
-   #     pegasystems_logo = "https://companieslogo.com/img/orig/PEGA_BIG-35db3335.png?t=1597250644"
-    #    st.image(pegasystems_logo, caption='Pegasystems', width=150)
-
-    #with col2:
-     #   onvisource_logo= "https://static.wixstatic.com/media/6d1422_57dbf5970ff046eda41ad6de0c88145a~mv2.png"
-     #  st.image(onvisource_logo, caption='Onvisource', width=150)
-
-    #with col3:
-     #   kyron_logo = "https://awsmp-logos.s3.amazonaws.com/fb00ac61-9122-46d6-a44b-555291e4625b/9535e41899e850fa267e1a4825a0ef20.png"
-     #  st.image(kyron_logo, caption='Kyron', width=100)
-
-#st.write("#")
-
-# with st.container():
-#     col1, col2, col3, col4 = st.columns(4, gap='small')
-
-#     with col1:
-#         nice_logo= "https://upload.wikimedia.org/wikipedia/commons/2/2a/Nice_Logo_2.svg"
-#         st.image(nice_logo, caption='Nice Systems', width=100)
-
-#     with col2:
-#         sap_logo= "https://logos-download.com/wp-content/uploads/2016/08/SAP_logo.png"
-#         st.image(sap_logo, caption='SAP', width=70)
-
-#     with col3:
-#         edge_verve_logo="https://plsadaptive.s3.amazonaws.com/eco/images/channel_content/images/edgeverve_rgb_colour_2xPQDRyJlzykx28blaYTH2mgUc5ic8qd2UFxzc6V4K.png"
-#         st.image(edge_verve_logo, caption='Edge Verve', width=120)
-
-#     with col1:
-#         microsoft_logo = "https://evergreenleadership.com/wp-content/uploads/2019/05/microsoft-logo-png-transparent-20.png"
-#         st.image(microsoft_logo, caption='Microsoft', width=150)
